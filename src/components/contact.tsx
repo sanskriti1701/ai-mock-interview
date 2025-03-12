@@ -42,7 +42,7 @@ export default function ContactPage() {
                         className="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
                     />
                     <textarea
-                        rows="4"
+                        rows={4}
                         placeholder="Your Message"
                         className="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
                     ></textarea>
